@@ -93,7 +93,7 @@ Dashboard Tableau Public dapat diakses [di sini]((https://public.tableau.com/app
 
 # Kontak
 
-Untuk pertanyaan atau umpan balik, silakan hubungi saya di [email Anda].
+Untuk pertanyaan atau umpan balik, silakan hubungi saya di marciadevana20@gmail.com
 
 # Lisensi
 
